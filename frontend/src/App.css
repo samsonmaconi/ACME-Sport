@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.nickname {
+  color: darkred;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: black;
+  border-color: #292929;
+}
+
+hr {
+  border: darkgoldenrod 1px solid;
+}
