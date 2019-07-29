@@ -15,8 +15,9 @@ The frontend was developed using React and Express was used for the backend.
 
 Time constraints due to my current schedule didn't permit me to tune some features better.
 
-## Limitations of the App
+## Limitations of the App and Code Base
 - Hardcoded Conference Grouping Algorithm
 - Fixed Grouping parameter (By Conferences only)
 - UI could use some finesse
 - Restricted sorting order
+- The front-end components could be further modularized to allow for easier debuging
