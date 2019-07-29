@@ -1,4 +1,4 @@
-# ACME-Sport
+# ACME-Sports
 The frontend was developed using React and Express was used for the backend.
 
 ## Instructions
@@ -7,7 +7,7 @@ The frontend was developed using React and Express was used for the backend.
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Assumptions
-- There are only two Team Conferences (AFC and NFC)
+- There will only ever be two Team Conferences (AFC and NFC)
 
 ## UI Features
 - Filtering Teams by every attribute except ID
