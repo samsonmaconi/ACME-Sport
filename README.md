@@ -19,4 +19,4 @@ Time constraints due to my current schedule didn't permit me to tune some featur
 - Hardcoded Conference Grouping Algorithm
 - Fixed Grouping parameter (By Conferences only)
 - UI could use some finesse
-- Limited sorting order
+- Restricted sorting order
